@@ -10,15 +10,21 @@ This machine learning model was made to predict House Price on King County, USA 
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).
 
+<hr>
+
 ## **Context**
 
 Home is one of the basic things in life that everyone need. Eventually, everyone will buy/sell house because it is a basic needs. This model is created to predict the house price based on several features (X variables).
 
 The dataset that is being used is obtained through [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) in which the data contained homes sold between May 2014 and May 2015 on King County, USA.
 
+<hr>
+
 ## **Problem**
 
 Home is one of the basic needs that human need to fulfill. But, Real estate is the least transparent industry in our economy. Housing prices keep changing day in and day out and sometimes are hyped rather than being based on valuation. Based on this phenomenon, this model hopefully can help people with limited resource to predict a house price that they want to buy.
+
+<hr>
 
 ## **Evaluation Matrix Calculation Results**
 
